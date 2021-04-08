@@ -488,4 +488,46 @@ dataSet[dataSetVersion].characterData = [
       series: ["s1"],
     }
   },
+  {
+    name: "Kitasan Black",
+    img: "xonyTAV.png",
+    opts: {
+      series: ["s1"],
+    }
+  },
+  {
+    name: "Satono Diamond",
+    img: "pJJB9ed.png",
+    opts: {
+      series: ["s1"],
+    }
+  },
+  {
+    name: "Tazuna Hayakawa",
+    img: "7qqgOFD.png",
+    opts: {
+      series: ["s1"],
+    }
+  },
+  {
+    name: "Aoi Kiryuin",
+    img: "b6qEsZ8.png",
+    opts: {
+      series: ["s1", "g1"],
+    }
+  },
+  {
+    name: "Happy Meek",
+    img: "HMqF8zP.png",
+    opts: {
+      series: ["s1", "g1"],
+    }
+  },
+  {
+    name: "Yayoi Akikawa",
+    img: "85336UY.png",
+    opts: {
+      series: ["s1", "g1"],
+    }
+  },
 ];
