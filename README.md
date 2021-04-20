@@ -10,6 +10,8 @@ Original source code of the sorter, and credits all goes to https://github.com/e
 		* Sakura Chiyono O
 		* Sirius Symboli
 		* Yaeno Muteki
+		* Etsuko Otonashi
+		* Sasami Anshinzawa
 
 	* Changed all image source to images from https://umamusume.jp/character/
 
