@@ -6,7 +6,7 @@ Original source code of the sorter, and credits all goes all goes to https://git
 ## Changelogs
 * __April 20, 2021__ 
 	* Added characters
-		* Mejiro Ardanck 
+		* Mejiro Ardan
 		* Sakura Chiyono O
 		* Sirius Symboli
 		* Yaeno Muteki
