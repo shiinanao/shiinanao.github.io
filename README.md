@@ -1,6 +1,7 @@
-# shiinanao.github.io
+# Uma Musume Character Sorter
 
-Original source code from https://github.com/execfera/charasort/ 
+### GitHub Page link https://shiinanao.github.io/
+Original source code of the sorter, and credits all goes all goes to https://github.com/execfera/charasort/.
 
 ## Changelogs
 * __April 20, 2021__ 
