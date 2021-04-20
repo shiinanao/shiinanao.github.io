@@ -2,10 +2,6 @@
 
 Original source code from https://github.com/execfera/charasort/ 
 
-# shiinanao.github.io
-
-Original source code from https://github.com/execfera/charasort/ 
-
 ## Changelogs
 * __April 20, 2021__ 
 	* Added characters
